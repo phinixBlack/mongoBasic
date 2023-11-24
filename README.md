@@ -17,7 +17,7 @@ src
 
 
 # 2:  Project setup 
-**1: npm inti
+**1: npm inti**
 **2: change the path in package.json 
        "main": "index.js",
        "scripts": {
