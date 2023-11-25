@@ -37,3 +37,5 @@
     .env
 
 2. : npm i mongoose  [Mongoose Doc](https://github.com/phinixBlack/mongoBasic.git)
+
+[Next.js Documentation](https://nextjs.org/docs)
