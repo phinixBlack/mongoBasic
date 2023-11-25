@@ -28,12 +28,12 @@
 
 2. : npm start
 
-2. : npm install express  [Express Doc] (https://expressjs.com/en/5x/api.html)
+2. : npm install express  [Express Doc](https://expressjs.com/en/5x/api.html)
 
 
 // every time when you have done some changes you need to restart server
 
-2. : npm i dotenv   [dotenv Doc] (https://www.npmjs.com/package/dotenv)
+2. : npm i dotenv   [dotenv Doc](https://www.npmjs.com/package/dotenv)
     .env
 
- npm i mongoose
+2. : npm i mongoose  [Mongoose Doc](https://github.com/phinixBlack/mongoBasic.git)
