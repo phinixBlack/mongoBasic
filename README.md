@@ -1,17 +1,26 @@
 # 1: file Structure
- ##src
-   **index [DB Connects]
-  App [Config , Cookie,urlencode]
-  Constants [enums,DB-Name]
+ src
+
+     index [DB Connects]
+
+     App [Config , Cookie,urlencode]
+
+     Constants [enums,DB-Name]
   
 
 
 =>DB
+
 =>Models
+
 =>Controllers
+
 =>Routes
+
 =>Middlewares
+
 =>Utils  [Helpers in laravel]
+
 =>Mode(depends)
 
 
