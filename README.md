@@ -10,19 +10,13 @@
   
 
 
-=>DB
-
-=>Models
-
-=>Controllers
-
-=>Routes
-
-=>Middlewares
-
-=>Utils  [Helpers in laravel]
-
-=>Mode(depends)
+1. =>DB
+1. =>Models
+1. =>Controllers
+1. =>Routes
+1. =>Middlewares
+1. =>Utils  [Helpers in laravel]
+1. =>Mode(depends)
 
 
 
